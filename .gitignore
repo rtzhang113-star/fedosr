@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+checkpoints/
+outputs/
+output/
+**/per_time.csv
+**/time_slice*.csv
+**/trajectory*.csv
